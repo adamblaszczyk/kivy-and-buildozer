@@ -1,6 +1,8 @@
 #!/bin/sh
 
 # Instalacja Kivy dla Pythona 2.7
+# Przetestowane na:
+# - Linux Mint 19.1 x64
 
 sudo add-apt-repository ppa:kivy-team/kivy
 sudo apt-get update
