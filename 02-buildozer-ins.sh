@@ -3,6 +3,7 @@
 # Instalacja Buildozer dla Pythona 2.7
 # Przetestowane na:
 # - Linux Mint 19.1 x64
+# - Ubuntu 18.04.2 x64
 
 sudo apt update
 
